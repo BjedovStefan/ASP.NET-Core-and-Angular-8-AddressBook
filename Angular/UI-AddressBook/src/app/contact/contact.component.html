@@ -1,0 +1,37 @@
+<div class="container" style="border:thin">
+    <form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+      <div class="form-group">
+        <label>First Name</label>
+        <input name="firstName"  id="input" firstname required #firstName="ngModel" [(ngModel)]="objcon.FirstName" class="form-control">
+        <span class="help-bpx"  *ngIf="firstName.touched && !firstName.valid ">Required</span>
+      </div>
+      <div class="form-group">
+        <label>Last Name</label>
+        <input name="lastName"  id="input" lastname required #lastName="ngModel" [(ngModel)]="objcon.LastName" class="form-control">
+        <span class="help-bpx" *ngIf="lastName.touched && !lastName.valid ">Required</span>
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label>Address</label>
+          <input name="address"  id="input" address required #address="ngModel" [(ngModel)]="objcon.Address" class="form-control">
+          <span class="help-bpx" *ngIf="address.touched && !address.valid ">Required</span>
+        </div>
+        <div class="form-group col-md-6">
+          <label>Phone number</label>
+          <input name="phoneNo"  id="input" phoneNo required #phoneNo="ngModel" [(ngModel)]="objcon.PhoneNo" class="form-control">
+          <span class="help-bpx" *ngIf="phoneNo.touched && !phoneNo.valid ">Required</span>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <button type="submit" class="btn btn-lg btn-block" [disabled]="form.form.invalid" >SUBMIT</button>
+        </div>
+        <div class="form-group col-md-6">
+          <button type="reset" class="btn btn-lg btn-block" (click)="resetForm()">RESET</button>
+        </div>
+      </div>
+  
+    </form>
+  </div>
+  <button style="display:none" type="button" #closeBtn  class="btn btn-default"   data-dismiss="modal">Close</button>
+  

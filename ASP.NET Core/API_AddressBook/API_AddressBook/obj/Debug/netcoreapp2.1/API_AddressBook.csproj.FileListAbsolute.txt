@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\bin\Debug\netcoreapp2.1\API_AddressBook.deps.json
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\bin\Debug\netcoreapp2.1\API_AddressBook.runtimeconfig.json
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\bin\Debug\netcoreapp2.1\API_AddressBook.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\bin\Debug\netcoreapp2.1\API_AddressBook.dll
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.RazorAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.RazorAssemblyInfo.cs
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\bin\Debug\netcoreapp2.1\API_AddressBook.pdb
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.dll
+C:\Users\Stefan\Desktop\Actual_Project\ASP.NET Core\API_AddressBook\API_AddressBook\obj\Debug\netcoreapp2.1\API_AddressBook.pdb

@@ -1,0 +1,28 @@
+<div class="container" style="border:thin">
+    <form #detail="ngForm" name="detail"  autocomplete="off">
+            <div class="form-row">
+        <div class="form-group col-md-6">
+            <label>First Name</label>
+            <input name="firstName" readonly id="ConDetail" firstname required #firstName="ngModel" [(ngModel)]="objcon.FirstName" class="form-control">
+          </div>
+          <div class="form-group col-md-6" >
+            <label>Last Name</label>
+            <input name="lastName" readonly id="ConDetail" lastname required #lastName="ngModel" [(ngModel)]="objcon.LastName" class="form-control">
+          </div>
+        </div>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label>Address</label>
+              <input name="address" readonly id="ConDetail" address required #address="ngModel" [(ngModel)]="objcon.Address" class="form-control">
+            </div>
+            <div class="form-group col-md-6">
+              <label>Phone number</label>
+              <input name="phoneNo" readonly id="ConDetail" phoneNo required #phoneNo="ngModel" [(ngModel)]="objcon.PhoneNo" class="form-control">
+            </div>
+          </div>
+        
+  
+    </form>
+  </div>
+  <button style="display:none" type="button" #closeBtn  class="btn btn-default"   data-dismiss="modal">Close</button>
+  
